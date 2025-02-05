@@ -1,0 +1,28 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Terraform-related files
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+*.tfvars
+
+# Node.js dependencies
+node_modules/
+
+# Miscellaneous system files
+.DS_Store
+Thumbs.db
+
+# Logs & temp files
+*.log
+*.out
+*.err
+
